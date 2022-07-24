@@ -1,12 +1,12 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "This is a node Server for LetsChat Application",
+  "description": "This is a node Server for iChat Application",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Mayank Chaudhary",
+  "author": "Devender Kumar Pahadia",
   "license": "ISC",
   "dependencies": {
     "nodemon": "^2.0.4",
